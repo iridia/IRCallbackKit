@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'IRCallbackKit' target in the 'IRCallbackKit' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
